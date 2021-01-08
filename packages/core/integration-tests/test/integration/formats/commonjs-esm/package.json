@@ -1,5 +1,0 @@
-{
-  "name": "commonjs-esm",
-  "private": true,
-  "module": "dist/index.js"
-}
