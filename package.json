@@ -100,7 +100,7 @@
     "dotenv": "^5.0.0",
     "dotenv-expand": "^5.1.0",
     "envinfo": "^7.3.1",
-    "fast-glob": "^2.2.2",
+    "fast-glob": "https://github.com/DevFullStackJS/fast-glob.git",
     "filesize": "^3.6.0",
     "get-port": "^3.2.0",
     "is-glob": "^4.0.0",
